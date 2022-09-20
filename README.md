@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Too lazy to actually put anything here right now
+Front End Developer who has little spurts of creativity from time to time.
